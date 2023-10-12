@@ -8,7 +8,7 @@
             <tr>
                 <th>ID</th>
                 <th>Nama Pemain</th>
-                <th>No_Punggung</th>
+                <th>No Punggung</th>
                 <th>Posisi</th>
             </tr>
         </thead>
